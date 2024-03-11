@@ -52,7 +52,7 @@ sidebar:
           link:
           
 career-profile:
-    title: Career Profile
+    title: Profiel
     summary: |
       Ik ben mijn carrière gestart bij cloudstar. Daar heb ik stage gelopen voor mijn bachelor in toegepaste informatica te halen. 
       Tijdens mijn stage heb ik kennis gemaakt met de hosting infrastructuur en met het firewall programma fail2ban. De opdracht van mijn stage was dit porten naar .NET framework.
@@ -60,6 +60,8 @@ career-profile:
       Achter mijn stage ben ik direct mogen beginnen bij Starring Jane die indirect onderdeel uitmaakte van Cloudstar. Bij SJ ben ik uitgegroeid tot full stack .net met Vue & hielp ik met de voledige ontwikkelingscyclus mee.
       Omdat ik graag een groot product wou mee helpen bouwen ben ik bij Green Island terecht gekomen. Daar heb ik van begin tot einde de architectuur & programmatie (front-end & back-end) gemaakt van een omnichannel
       landbased oplossing voor casino's. Deze software draait nu 24/7 in verschillende casino groepen (+-30 locaties tot op heden).
+
+      
 education:
     title: Opleiding
     info:
@@ -114,13 +116,13 @@ oss:
 
 publications:
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: C# .NET
         level: 100%
         
-      - name: Entity framework / REST / mediator / design patterns / CQRS / Architectuur
+      - name: Entity framework / REST / mediator / design patterns / CQRS / Architectuur / Event-driven design / RabbitMQ
         level: 100%
         
       - name: HTML
@@ -134,6 +136,9 @@ skills:
         
       - name: Vue
         level: 75%
+        
+      - name: Microservices / nog niet IRL echt toegepast
+        level: 60%
         
       - name: CSS
         level: 60%
