@@ -76,7 +76,7 @@ education:
 experiences:
     title: Experiences
     info:
-       - role: Fullstack Software engineer
+      - role: Fullstack Software engineer
         time: nov. 2019 - heden
         company: Green Island
         details:
